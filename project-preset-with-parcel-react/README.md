@@ -34,6 +34,8 @@ React Preset: [link](https://github.com/junproger/project-preset-with-parcel-rea
 - "eslint-plugin-prettier": "^5.0.0",
 - "parcel": "^2.9.3",
 - "prettier": "^3.0.0",
+- "react": "^18.2.0",
+- "react-dom": "^18.2.0",
 - "typescript": "^5.1.6",
 
 ## Folders
