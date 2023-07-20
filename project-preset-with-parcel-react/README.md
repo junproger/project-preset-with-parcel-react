@@ -25,6 +25,9 @@ React Preset: [link](https://github.com/junproger/project-preset-with-parcel-rea
 
 ## Packages
 
+- "@types/node": "^20.4.2",
+- "@types/react": "^18.2.15",
+- "@types/react-dom": "^18.2.7",
 - "@typescript-eslint/eslint-plugin": "^6.0.0",
 - "@typescript-eslint/parser": "^6.0.0",
 - "eslint": "^8.45.0",
