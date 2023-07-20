@@ -60,18 +60,19 @@ Source
 ## Source
 
 - index.html as the entry point for Parcel, has links to favicon, styles and script
-- index.ts as the index script
+- index.ts as the index script of the application
 - index.css as the global styles
-- root.ts as the root element constant
-- myApp.ts as the main application script
-- appView.ts as the application component
-- ViewType.ts as the type aliase of the appView Component
-- assets.d.ts as the declaration type for png images
-- favicon.ico as the favicon
-- hello.png as the imported image
-- parcel.png as the background image
+- app.tsx as the react app
 
 ## Reference
+
+[Definitely Typed ENG](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.md)
+
+[Definitely Typed RUS](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.ru.md)
+
+[React+TypeScript Cheatsheets GIT](https://github.com/typescript-cheatsheets/react)
+
+[React+TypeScript Cheatsheets WEB](https://react-typescript-cheatsheet.netlify.app/)
 
 [MICROSOFT TYPESCRIPT CODING GUIDELINES ENG](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
 
