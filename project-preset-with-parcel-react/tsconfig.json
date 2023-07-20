@@ -7,6 +7,7 @@
   // copmpiler
   "compilerOptions": {
     // base
+    "jsx": "react",
     "baseUrl": "./source",
     "noEmit": false,
     "noEmitOnError": true,
