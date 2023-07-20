@@ -34,7 +34,10 @@
     "linter": "eslint \"./source/**/*.{js,jsx,ts,tsx}\"",
     "linter:fix": "eslint \"./source/**/*.{js,jsx,ts,tsx}\" --fix"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
