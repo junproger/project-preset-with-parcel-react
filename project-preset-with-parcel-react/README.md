@@ -60,9 +60,9 @@ Source
 ## Source
 
 - index.html as the entry point for Parcel, has links to favicon, styles and script
-- index.ts as the index script of the application
+- index.tsx as the index script of the React application
 - index.css as the global styles
-- app.tsx as the react app
+- app.tsx as the React app
 
 ## Reference
 
