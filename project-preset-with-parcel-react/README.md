@@ -23,6 +23,7 @@ React Preset: [link](https://github.com/junproger/project-preset-with-parcel-rea
 - **CSS modules** -> [css-modules](https://parceljs.org/languages/css/#css-modules)
 - **React JS** -> [react-js](https://parceljs.org/recipes/react/)
 - SASS (optional) -> [sass/scss](https://parceljs.org/languages/sass/)
+- CLSX (optional) -> [clsx](https://github.com/lukeed/clsx)
 
 ## Packages
 
