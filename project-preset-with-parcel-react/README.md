@@ -67,13 +67,13 @@ Source
 
 ## Reference
 
-[Definitely Typed ENG](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.md)
-
-[Definitely Typed RUS](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.ru.md)
-
 [React+TypeScript Cheatsheets GIT](https://github.com/typescript-cheatsheets/react)
 
 [React+TypeScript Cheatsheets WEB](https://react-typescript-cheatsheet.netlify.app/)
+
+[Definitely Typed ENG](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.md)
+
+[Definitely Typed RUS](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.ru.md)
 
 [MICROSOFT TYPESCRIPT CODING GUIDELINES ENG](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
 
