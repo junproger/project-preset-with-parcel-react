@@ -37,6 +37,7 @@ React Preset: [link](https://github.com/junproger/project-preset-with-parcel-rea
 - "eslint-import-resolver-typescript": "^3.5.5",
 - "eslint-plugin-import": "^2.27.5",
 - "eslint-plugin-prettier": "^5.0.0",
+- "eslint-plugin-react": "^7.33.0",
 - "parcel": "^2.9.3",
 - "prettier": "^3.0.0",
 - "process": "^0.11.10",
