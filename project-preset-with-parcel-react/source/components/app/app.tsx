@@ -1,8 +1,8 @@
-import React from 'react';
+import { FC } from 'react';
 
 import hello from '../../assets/hello.png';
 
-export const App: React.FC = () => {
+export const App: FC = () => {
   return (
     <>
       <h1>The Project Started!</h1>
