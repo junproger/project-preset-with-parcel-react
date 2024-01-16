@@ -25,6 +25,7 @@ React Preset: [link](https://github.com/junproger/project-preset-with-parcel-rea
 - **CSS modules** -> [css-modules](https://parceljs.org/languages/css/#css-modules)
 - **Types Definitions for Css-Modules** -> [css-modules-types](https://github.com/mrmckeb/typescript-plugin-css-modules#custom-definitions)
 - **React JS** -> [react-js](https://parceljs.org/recipes/react/)
+- **React Hooks Plugin** -> [plugin-hooks](https://github.com/facebook/react/tree/main/packages/eslint-plugin-react-hooks)
 - SASS (optional) -> [sass/scss](https://parceljs.org/languages/sass/)
 - CLSX (optional) -> [clsx](https://github.com/lukeed/clsx)
 
@@ -41,6 +42,7 @@ React Preset: [link](https://github.com/junproger/project-preset-with-parcel-rea
 - "eslint-plugin-import": "^2.27.5",
 - "eslint-plugin-prettier": "^5.0.0",
 - "eslint-plugin-react": "^7.33.0",
+- "eslint-plugin-react-hooks": "^4.6.0",
 - "parcel": "^2.9.3",
 - "prettier": "^3.0.0",
 - "process": "^0.11.10",
